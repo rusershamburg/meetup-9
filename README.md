@@ -10,7 +10,7 @@
 
 ## Lightning talks:
 
-1. Intro to snakecase-pkg - Malte Grosser
+1. [snakecase-pkg](20170516_snakecase_pkg.pdf) - Malte Grosser
 
 2. [Intro to blogdown-pkg](https://github.com/henningsway/Tokyo.R) - Henning Bumann
 
